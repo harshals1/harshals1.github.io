@@ -1,5 +1,5 @@
-# This is a sample repository to demonstarate the practices of forking, issues and pull requests.
+# I’m currently working with IITM BSc Degree  program.
+## I’m currently learning building my portfolio online.
+## I’m looking to add some more information in coming days.
+## I’m also learning with Python
 
-## To be eligible for submission, fork this repository, work with the assigned issue, add your name below and open a pull request.
-
-## This project was created by Harshal.
