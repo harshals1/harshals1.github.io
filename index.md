@@ -24,6 +24,7 @@
    - Data based on single unique identifier is good for analysis
    - If there are multiple identifier; then it should be mapped one to many.
    
-   
+# Somethings I did
+- Published numerous charts using user firendly systems as per user requirements
 
   
